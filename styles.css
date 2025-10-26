@@ -62,8 +62,9 @@ footer {
   margin-bottom: 20px;
   transition: transform 0.3s;
 }
-.project:hover{
-  transform: scale(1.02);
+img:hover{
+  transform: scale(3);
+  align-content: center;
 }
 table {
   width: 100%;
